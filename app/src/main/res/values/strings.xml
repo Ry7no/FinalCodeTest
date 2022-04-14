@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FinalCodeTest2</string>
+    <string name="title">終極密碼戰  #FinalCode</string>
+
+    <string name="playerBadGuy">拍郎老大</string>
+    <string name="badGuySay">打給齁，挖西拍郎啦，沒看過炸彈齁!!</string>
+
+    <string name="player1Name">玩家一號</string>
+    <string name="player1Say">阿阿阿~~好可怕</string>
+
+    <string name="player2Name">玩家二號</string>
+    <string name="player2Say">喔不~~壓力山大!!!</string>
+    <string name="cheatMode">0</string>
+
+</resources>
